@@ -2,6 +2,6 @@
 # Runner Game
 
 ## TECHNOLOGIES:
-Langages: HTML, JAVASCRIPT, CSS
+Langages: HTML, JAVASCRIPT
 
 ## Description du projet
